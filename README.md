@@ -2,7 +2,7 @@
 
 <br/>
 
-software engineer. i build across the full stack: mobile apps, web interfaces, automation bots, backend systems, scrapers, and AI pipelines. most things in TypeScript; occasionally Python when the problem demands it.
+software engineer. i build across the full stack: mobile apps, web interfaces, automation bots, backend systems, scrapers, and AI pipelines. most things in TypeScript & Rust; occasionally C# & Python when the demands there.
 
 ---
 
